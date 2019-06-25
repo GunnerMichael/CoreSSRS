@@ -29,6 +29,7 @@ namespace ServantSoftware.CoreSSRS
         /// <param name="reportParameters">Collection of parameters for the report</param>
         /// <param name="outputFormat">Output format e.g PDF or EXCEL</param>
         /// <returns>A byte array of the output that can be saved to a file</returns>
+        /// <remarks>The output bytes can be saved to file using code like File.WriteAllBytesAsync</remarks>
         public async Task<byte[]> RenderReport(string reportPath, NameValueCollection reportParameters, string outputFormat = "PDF")
         {
             string url = BuildFullRenderUrl(reportPath, reportParameters, outputFormat);

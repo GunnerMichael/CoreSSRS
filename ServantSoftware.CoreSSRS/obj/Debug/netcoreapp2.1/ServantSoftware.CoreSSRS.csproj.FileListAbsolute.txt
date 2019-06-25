@@ -1,0 +1,8 @@
+C:\michael\repo\ServantSoftware.CoreSSRS\ServantSoftware.CoreSSRS\obj\Debug\netcoreapp2.1\ServantSoftware.CoreSSRS.csproj.CoreCompileInputs.cache
+C:\michael\repo\ServantSoftware.CoreSSRS\ServantSoftware.CoreSSRS\obj\Debug\netcoreapp2.1\ServantSoftware.CoreSSRS.AssemblyInfoInputs.cache
+C:\michael\repo\ServantSoftware.CoreSSRS\ServantSoftware.CoreSSRS\obj\Debug\netcoreapp2.1\ServantSoftware.CoreSSRS.AssemblyInfo.cs
+C:\michael\repo\ServantSoftware.CoreSSRS\ServantSoftware.CoreSSRS\bin\Debug\netcoreapp2.1\ServantSoftware.CoreSSRS.deps.json
+C:\michael\repo\ServantSoftware.CoreSSRS\ServantSoftware.CoreSSRS\bin\Debug\netcoreapp2.1\ServantSoftware.CoreSSRS.dll
+C:\michael\repo\ServantSoftware.CoreSSRS\ServantSoftware.CoreSSRS\bin\Debug\netcoreapp2.1\ServantSoftware.CoreSSRS.pdb
+C:\michael\repo\ServantSoftware.CoreSSRS\ServantSoftware.CoreSSRS\obj\Debug\netcoreapp2.1\ServantSoftware.CoreSSRS.dll
+C:\michael\repo\ServantSoftware.CoreSSRS\ServantSoftware.CoreSSRS\obj\Debug\netcoreapp2.1\ServantSoftware.CoreSSRS.pdb
